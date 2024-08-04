@@ -27,13 +27,13 @@ header{
 
 	margin: auto;
 	display: flex;
-	width: 1366px;
+
 
 }
 
 .b1 {
 
-	width: 15%;
+	width: 150px;
 	background-color: #6f7374 ;
 	margin: 0px;
 	padding: 10px 20px 20px 20px;
